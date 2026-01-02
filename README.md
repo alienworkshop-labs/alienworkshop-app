@@ -3,7 +3,7 @@
 > **Artificial Intelligence & Operations**  
 > **Free to download & Source Code Available.** Built in public. Shaped by the community.
 
-Alien Workshop is an AI platform and infrastructure designed to help individuals and teams **turn information into execution**—faster, with fewer handoffs, and less friction.
+Alien Workshop is an AI platform designed to help individuals and teams **turn information into execution**—faster, with fewer handoffs, and less friction.
 
 This project is about making **language a real interface for work**: generate, edit, organize, retrieve, and operationalize digital content—then ship outcomes.
 
