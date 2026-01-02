@@ -1,11 +1,11 @@
 # Alien Workshop App
 
 > **Artificial Intelligence & Operations**  
-> **Free & Open Source.** Built in public. Shaped by the community.
+> **Free to download & Source Code Available.** Built in public. Shaped by the community.
 
-Alien Workshop is an open-source AI workspace designed to help individuals and teams **turn information into execution**—faster, with fewer handoffs, and less friction.
+Alien Workshop is an AI platform and infrastructure designed to help individuals and teams **turn information into execution**—faster, with fewer handoffs, and less friction.
 
-This project is about more than “chat.” It’s about making **language a real interface for work**: generate, edit, organize, retrieve, and operationalize digital content—then ship outcomes.
+This project is about making **language a real interface for work**: generate, edit, organize, retrieve, and operationalize digital content—then ship outcomes.
 
 ---
 
@@ -48,14 +48,13 @@ Alien Workshop is engineered around a simple idea: **high-output work should be 
 
 ---
 
-## Why Open Source?
+## Why Free to download & Source Code Available?
 
 Because the future of work shouldn’t be locked behind black boxes.
 
-Alien Workshop is open source so that:
+Alien Workshop makes the source code available so that:
 
-- **Trust is earned** through transparency.
-- **The community can shape the roadmap**, not just consume it.
+- **The community can help shape the roadmap**, not just consume it.
 - **The product can outlive any single team**, and become real infrastructure.
 - **Contributors can build reputation** by shipping meaningful improvements.
 
@@ -82,8 +81,7 @@ Whether you’re solo or part of a team, the goal is the same:
 - **Website:** https://alienworkshop.ai  
 - **Source (this repo):** https://github.com/alienworkshop-labs/alienworkshop-app  
 - **Releases:** https://github.com/alienworkshop-labs/alienworkshop-app/releases
-
-> If releases aren’t populated yet, that’s normal—this repo is fresh.  
+  
 > Early contributors can help define everything from polish to principles.
 
 ---
@@ -171,7 +169,7 @@ This project and organization are **not affiliated with any skateboarding compan
 
 ## License
 
-This project is intended to be **Free and Open Source**.  
+This project is intended to be **Free and Source Available**.  
 See the `LICENSE` file in this repository for details (if it hasn’t been added yet, please open an issue so we can fix it quickly).
 
 ---
