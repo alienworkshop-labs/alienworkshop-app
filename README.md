@@ -53,7 +53,7 @@ Clients are where people feel the product. This repo is where the community help
 > ├─ ios/ — iOS client (capture / notifications / account)  
 > └─ android/ — Android client (capture / notifications / account)
 
-Each app folder contains (or will contain) its own README with build/run instructions, screenshots, and roadmap notes.
+Each app folder contains its own details with build/run instructions, screenshots, and roadmap notes.
 
 ---
 
